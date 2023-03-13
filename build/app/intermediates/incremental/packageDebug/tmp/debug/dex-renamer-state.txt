@@ -1,0 +1,4 @@
+#Mon Mar 13 23:14:12 MSK 2023
+base.0=/Users/macos/Downloads/flutter/mi_card_flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
